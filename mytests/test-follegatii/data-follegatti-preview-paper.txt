@@ -1,0 +1,26 @@
+Monoethanolamine formate
+2-HEAF
+
+compound summary
+https://pubchem.ncbi.nlm.nih.gov/compound/171257
+
+literature experimental data
+https://doi.org/10.1016/j.molliq.2018.11.011
+T rho/gcm-3 rho/gcm-3
+298.150 1.204354 1.210501
+303.150 1.202641 1.207603
+308.150 1.199143 1.204703
+313.150 1.196610 1.201902
+318.150 1.194220 1.199212
+323.150 1.191591 1.196504
+-
+298.15,303.15,308.15,313.15,318.15,323.15
+1.204354,1.202641,1.199143,1.19661,1.19422,1.191591
+1.204,1.203,1.199,1.197,1.194,1.192
+11.244,11.228,11.195,11.172,11.149,11.125
+
+did not find energy (ε) and volume (β) association parameters in follegatti's partial article
+getting from Monoethanolamine (MEA)
+https://pubs.acs.org/doi/pdf/10.1021/ie800040g
+
+the other parameters were extracted from follegatti's partial article

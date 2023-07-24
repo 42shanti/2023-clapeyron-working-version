@@ -1,0 +1,9 @@
+Clapeyron Database File,,,,,,,
+sCPA Assoc Parameters,,,,,,,
+species1,SMILES1,site1,species2,SMILES2,site2,epsilon_assoc,bondvol
+water,O,e,water,O,H,166.55947239815478,69.2
+carbon dioxide,,e,water,O,H,83.28,183.6
+EAN1A,CC[NH3+].[N+](=O)([O-])[O-],e,EAN1A,CC[NH3+].[N+](=O)([O-])[O-],H,407.085,8.4
+EAN2B,CC[NH3+].[N+](=O)([O-])[O-],e,EAN2B,CC[NH3+].[N+](=O)([O-])[O-],H,423.9598,2.57
+EAN4C,CC[NH3+].[N+](=O)([O-])[O-],e,EAN4C,CC[NH3+].[N+](=O)([O-])[O-],H,257.7339,2.57
+2-HEAF,C(CO)N.C(=O)O,e,2-HEAF,C(CO)N.C(=O)O,H,274.49,3.09
